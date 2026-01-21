@@ -1,4 +1,6 @@
 # PostGIS Spatial Analysis
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostGIS-blue)
+![SQL](https://img.shields.io/badge/Language-SQL-orange)
 
 This project demonstrates spatial data modeling and analysis using PostgreSQL + PostGIS.
 
@@ -19,5 +21,4 @@ This project demonstrates spatial data modeling and analysis using PostgreSQL + 
 - Environmental monitoring
 - Spatial decision support
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostGIS-blue)
-![SQL](https://img.shields.io/badge/Language-SQL-orange)
+

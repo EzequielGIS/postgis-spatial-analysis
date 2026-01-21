@@ -1,0 +1,1 @@
+SELECT 'PostGIS is working';

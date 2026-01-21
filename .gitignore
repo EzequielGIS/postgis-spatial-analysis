@@ -1,13 +1,11 @@
-# Ignore raw and processed data
+
 data/raw/
 data/processed/
 
-# Ignore GIS files
 *.shp
 *.dbf
 *.shx
 *.prj
 *.tif
 
-# Ignore temporary files
 __pycache__/
